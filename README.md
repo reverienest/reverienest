@@ -1,2 +1,0 @@
-# reverienest
-My personal website
